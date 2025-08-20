@@ -2,7 +2,7 @@ package delivery
 
 import (
 	"atm-management-system/atm_api/Delivery/routers"
-	"atm-management-system/atm_api/Repoistories/database"
+	"atm-management-system/atm_api/Repositories/database"
 	"log"
 	"os"
 
