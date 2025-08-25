@@ -10,5 +10,5 @@ balance inquiries, and transaction history management.
 - Balance Inquiry & Transaction History
 - Secure Password Hashing (bcrypt)
 - MongoDB Integration
-- Postman API Documentation
+- API Documentation
 
